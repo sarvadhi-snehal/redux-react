@@ -1,6 +1,6 @@
 # reduxLearning
  
-
+start with npm i or if with pnpm i 
 Getting Started with pnpm and vite@latest
 
 This project was bootstrapped with [vite@latest]
